@@ -1,0 +1,8 @@
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\bin\Release\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\bin\Release\SimuladorMotorCD.pdb
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.csprojResolveAssemblyReference.cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.Form1.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.Properties.Resources.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.csproj.GenerateResource.Cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdPID2\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.pdb
